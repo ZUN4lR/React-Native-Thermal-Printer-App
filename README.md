@@ -6,20 +6,6 @@ A complete React Native module for connecting and printing to USB thermal printe
 [![Android](https://img.shields.io/badge/Android-5.0+-green.svg)](https://www.android.com/)
 [![License](https://img.shields.io/badge/license-MIT-orange.svg)](LICENSE)
 
-## 📋 Table of Contents
-
-- [Features](#features)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [API Reference](#api-reference)
-- [Printer Width Configuration](#printer-width-configuration)
-- [Image Printing](#image-printing)
-- [Connection Management](#connection-management)
-- [Troubleshooting](#troubleshooting)
-- [Example App](#example-app)
-- [License](#license)
-
 ## ✨ Features
 
 - ✅ **Auto-detection** of USB thermal printers
@@ -833,7 +819,7 @@ These are automatically requested when needed.
 
 MIT License
 
-Copyright (c) 2024
+Copyright (c) 2025
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -845,6 +831,24 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
+## Commercial Use Permission
+This software is provided under the MIT License, which explicitly permits:
+
+✅ Commercial use in proprietary software
+
+✅ Distribution in commercial products
+
+✅ Modification and customization
+
+✅ Private use
+
+✅ Patent use
+
+✅ Sublicensing
+
+✅ Inclusion in commercial applications
+
+### No Warranty
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
