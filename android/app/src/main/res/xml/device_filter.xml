@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- This filter matches all USB printers -->
+    <usb-device class="7" subclass="1" protocol="1" />
+    <usb-device class="7" subclass="1" protocol="2" />
+    <usb-device class="7" subclass="1" protocol="3" />
+    
+    <!-- Fallback: match any USB device (you can restrict this to specific vendor/product IDs) -->
+    <!-- Example for specific printer: -->
+    <!-- <usb-device vendor-id="1234" product-id="5678" /> -->
+</resources>
